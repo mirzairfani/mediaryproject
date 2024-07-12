@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608364129472",
+    "project_id": "mediary2",
+    "storage_bucket": "mediary2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608364129472:android:b247ded9d5dd7b65ee9125",
+        "android_client_info": {
+          "package_name": "com.example.mediary2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZRtFcBnicrzEtmeM2hth6nCRbjB80-Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
